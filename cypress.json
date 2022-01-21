@@ -1,0 +1,8 @@
+{
+    "defaultCommandTimeout": 1000000,
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://github.com",
+    "waitForAnimations": false,
+    "animationDistanceThreshold": 50,
+    "video": false
+}
